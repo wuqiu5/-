@@ -62,14 +62,23 @@ git clone https://github.com/wuqiu5/Project2.git
 ## 📁 项目结构
 
 Project2/
+
 ├── FileName.cpp              # 主程序源代码（全部逻辑）
+
 ├── Project2.vcxproj          # Visual Studio 项目文件
+
 ├── Project2.vcxproj.filters  # VS 项目筛选器
+
 ├── Project2.sln              # Visual Studio 解决方案文件
+
 ├── 0.jpg ~ 6.jpg             # 游戏地图/角色/怪物素材
+
 ├── info.jpg                  # 游戏说明图片
+
 ├── 魔塔.wav                  # 背景音效文件
+
 └── README.md                 # 项目说明文档
+
 
 ## 🕹️ 操作说明
 
