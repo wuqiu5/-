@@ -99,6 +99,11 @@ Project2/
 - **角色属性**：使用 count 记录经验值，升级经验[3] 存储升级所需经验
 - **存档功能**：使用 savedMap 保存地图状态，stairsPositions 记录楼梯坐标
 
+## 🖼️ 游戏截图
+
+![游戏地图总览]((https://github.com/wuqiu5/-/blob/e81931198aa67b6bc0c96a914b97293313f62c50/game-screenshot.png))
+*上图展示了魔塔游戏的 6 个关卡地图，包含怪物、道具、楼梯及角色状态面板。*
+
 ## 👤 作者
 
 - GitHub: https://github.com/wuqiu5
